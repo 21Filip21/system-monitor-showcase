@@ -8,12 +8,16 @@
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?logo=windows&logoColor=white)
 ![Localhost](https://img.shields.io/badge/Rede-s%C3%B3%20localhost-2EA44F)
 
+<br>
+
+<img src="imagens/painel.png" alt="Painel do System Monitor" width="900">
+
 </div>
 
 <br>
 
 > [!NOTE]
-> Esta página só apresenta o projeto. **O código é privado.** Foi feito para uso no próprio computador.
+> Esta página só apresenta o projeto. **O código é privado.** Foi feito para uso no próprio computador. As imagens mostram a interface real com dados de exemplo: a câmara não foi usada, e o quadro da imagem e as capturas são de demonstração.
 
 ## O objetivo
 
@@ -39,6 +43,20 @@ A decisão mais importante foi de segurança: o painel responde apenas no própr
 | 🕒 **Registo de sessão** | Mostra quando a sessão foi trancada e destrancada |
 | 📁 **Ficheiros** | Passa ficheiros entre o PC e o telemóvel |
 | 🚀 **Arranque automático** | Começa a funcionar ao entrar no Windows |
+
+## Visita guiada
+
+### Entrar
+
+O acesso é protegido por palavra-passe.
+
+<img src="imagens/login.png" alt="Página de entrada" width="620">
+
+### Ficheiros
+
+Navegar pelas pastas, descarregar ficheiros para o telemóvel e enviar ficheiros para o PC.
+
+<img src="imagens/ficheiros.png" alt="Página de ficheiros">
 
 ## O que aprendi
 
