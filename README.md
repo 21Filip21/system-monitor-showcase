@@ -21,7 +21,7 @@
 
 ## O objetivo
 
-Saber se alguém mexeu no computador durante a minha ausência e conseguir aceder a ele à distância, sem abrir nenhum serviço à internet.
+Saber se alguém mexeu no computador durante a ausência e conseguir aceder a ele à distância, sem abrir nenhum serviço à internet.
 
 ## Como funciona
 
